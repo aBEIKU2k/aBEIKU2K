@@ -34,17 +34,17 @@
 ### 🧠 Tech Stack
 
 #### 💻 Languages
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,java,cpp,php,cs,python,kotlin" />
 </p>
 
 #### 🎨 Frontend & Web
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,html,css,wordpress" />
 </p>
 
 #### ⚙️ Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
