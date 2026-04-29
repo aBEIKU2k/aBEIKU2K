@@ -1,10 +1,12 @@
 <h1 align="center">Ernest Abeiku Gyedu</h1>
-<h3 align="center">Frontend Engineer | Building Scalable, User-Centric Web Experiences</h3>
 
 <p align="center">
-  I specialise in crafting high-performance, responsive web applications using modern frontend technologies.
-  Passionate about clean architecture, intuitive UI/UX, and continuous learning.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Building+Scalable+Web+Applications;React+%7C+JavaScript+%7C+Java;Clean+Code+%7C+Modern+UI%2FUX" />
 </p>
+
+<h3 align="center">
+  Delivering scalable, high-performance, and user-focused digital experiences.
+</h3>
 
 ---
 
@@ -13,7 +15,7 @@
   <a href="https://twitter.com/abeiku___" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/ernedt abeiku gyedu" target="_blank">
+  <a href="https://linkedin.com/in/ernedt-abeiku-gyedu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -24,42 +26,26 @@
 
 #### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,cpp,php" />
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,php,cs,python,kotlin" />
 </p>
 
-#### ⚙️ Frontend Development
+#### 🎨 Frontend & Web
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,wordpress" />
 </p>
 
-#### 🛠 Tools & Technologies
+#### ⚙️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🎯 Current Focus
-- Building scalable frontend architectures with React  
-- Strengthening backend integration (Java - Spring Boot)  
-- Developing production-ready applications (TourBuddy / ExploreEase)  
-- Improving performance optimisation & clean code practices  
-
----
-
 ### ⚡ Value Proposition
-I don’t just build interfaces — I deliver **maintainable, scalable, and business-aligned frontend solutions**.
+I engineer solutions that are not only visually polished but also scalable, maintainable, and aligned with real business needs.
 
 ---
 
 <p align="center">
-  <i>“Consistency compounds. I build daily.”</i>
+  <i>Consistency compounds. I build daily.</i>
 </p>
