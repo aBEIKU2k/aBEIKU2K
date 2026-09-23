@@ -47,10 +47,7 @@
   <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,figma" />
 </p>
 
-**Productivity**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=office" />
-</p>
+
 
 **IT & Support Skills**
 - Testing, Debugging & Troubleshooting
