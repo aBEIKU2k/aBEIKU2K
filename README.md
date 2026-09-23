@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Front-end developer and web designer based in Takoradi, Ghana — open to full-time remote roles and freelance/contract work.
+ Software Engineer  based in Takoradi, Ghana — open to full-time remote roles and freelance/contract work.
 </p>
 
 <p align="center">
