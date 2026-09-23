@@ -1,60 +1,71 @@
-<h1 align="center">Ernest Abeiku Gyedu</h1>
-
+<h1 align="center">Hi, I'm Ernest Abeiku Gyedu</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+Scalable+Web+Applications;React+%7C+JavaScript+%7C+Java;Clean+Code+%7C+Modern+UI%2FUX" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Front-End+Developer+%26+Web+Designer;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;Building+Clean%2C+Scalable+Web+Applications" />
 </p>
 
-<h3 align="center">
-  Engineering scalable, high-performance and user-centric digital products.
-</h3>
+<p align="center">
+  Front-end developer and web designer based in Takoradi, Ghana — open to full-time remote roles and freelance/contract work.
+</p>
 
----
-
-### 🌐 Connect & Explore
 <p align="center">
   <a href="https://ernestgyedu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/ernedt-abeiku-gyedu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/abeiku___" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://ernestgyedu.netlify.app/" target="_blank">
-    <b>View Portfolio →</b>
-  </a>
+  <a href="https://ernestgyedu.vercel.app/" target="_blank"><b>View my portfolio →</b></a>
 </p>
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
-#### 💻 Languages
+**Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,cpp,php,cs,python,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind" />
 </p>
 
-#### 🎨 Frontend & Web
+**Backend & Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,wordpress" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,cs,cpp,kotlin" />
 </p>
 
-#### ⚙️ Tools
+**Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=supabase,mongodb" />
 </p>
+
+**Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,figma" />
+</p>
+
+**Productivity**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=office" />
+</p>
+
+**IT & Support Skills**
+- Testing, Debugging & Troubleshooting
+- Software & Hardware Support
+- Network Backup & Disaster Recovery Support
 
 ---
 
-### ⚡ Value Proposition
-I design and build maintainable, scalable systems with a strong focus on performance, usability, and real-world impact.
+### What I Do
 
----
+I design and build maintainable, high-performance web applications with a strong focus on usability and real-world impact — from client brand sites and dashboards to fintech concepts and internal tools.
 
-<p align="center">
-  <i>Consistency compounds. I build daily.</i>
-</p>
+- Currently building brand and product sites with React, Next.js and Tailwind
+- Sharpening my TypeScript and system design skills
+- Ask me about React, Next.js, or front-end architecture
+- Reach me via the links above
+
+<p align="center"><i>Consistency compounds. I build daily.</i></p>
