@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ernest Abeiku Gyedu</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Front-End+Developer+%26+Web+Designer;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;Building+Clean%2C+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;Building+Clean%2C+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
