@@ -19,9 +19,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://ernestgyedu.vercel.app/" target="_blank"><b>View my portfolio →</b></a>
-</p>
+
 
 ---
 
